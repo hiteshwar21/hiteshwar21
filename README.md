@@ -1,7 +1,7 @@
-<h2> Hey there! I'm Hiteshwar. <img src="https://raw.githubusercontent.com/hiteshwarmehla21/hiteshwarMehla/master/Hi.gif" width="25" alt="Hi GIF"></h2>
-<img align="right" alt="GIF" src="https://github.com/hiteshwarmehla21/hiteshwarMehla/blob/master/gif4.gif?raw=true" width="400"/>
+<h2> Hey there! I'm Hiteshwar. <img src="https://raw.githubusercontent.com/hiteshwarmehla21/hiteshwarmehla21/master/Hi.gif" width="25" alt="Hi GIF"></h2>
+<img align="right" alt="GIF" src="https://github.com/hiteshwarmehla21/hiteshwarmehla21/blob/master/gif4.gif?raw=true" width="400"/>
 
-<!-- https://raw.githubusercontent.com/hiteshwarmehla21/hiteshwarMehla/master/gif3.gif -->
+<!-- https://raw.githubusercontent.com/hiteshwarmehla21/hiteshwarmehla21/master/gif3.gif -->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
