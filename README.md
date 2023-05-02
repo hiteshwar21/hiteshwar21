@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Hiteshwar. <img src="https://raw.githubusercontent.com/hiteshwarmehla21/hiteshwarMehla/master/Hi.gif" width="25" alt="Hi GIF"></h2>
-<img alt="GIF" src="https://github.com/hiteshwarmehla21/hiteshwarMehla/blob/master/gif4.gif?raw=true" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/hiteshwarmehla21/hiteshwarMehla/blob/master/gif4.gif?raw=true" width="400"/>
 
 <!-- https://raw.githubusercontent.com/hiteshwarmehla21/hiteshwarMehla/master/gif3.gif -->
 
@@ -25,7 +25,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p>
+<p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/hiteshwarmehla/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" alt="LinkedIn Logo"/></a>
 &nbsp; <a href="mailto:hiteshwar.mehla@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" alt="GMail Logo"  width="50" /></a>
 &nbsp; <a href="https://twitter.com/hiteshwarmehla?s=09" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" alt="Twitter Logo" width="50" /></a>  
