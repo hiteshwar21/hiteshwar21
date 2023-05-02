@@ -11,7 +11,7 @@
 - 💼 &nbsp; Developer by profession.
 - 🌱 &nbsp; InfoSec Enthusiast. 
 - ✍️ &nbsp; Reading fiction and trying out latest design trends.
-- ☕ &nbsp; `mood = 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
+- ☕ &nbsp; I play Games too
 
 <h3>🛠 Tech Stack</h3>
 
