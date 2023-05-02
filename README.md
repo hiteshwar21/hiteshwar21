@@ -10,8 +10,8 @@
 - 💻 &nbsp; RPi is the tech I am currently loving the most.
 - 💼 &nbsp; Developer by profession.
 - 🌱 &nbsp; I like travelling at leisurely pace. 
-- ✍️ &nbsp; Reading fiction and trying out latest design trends.
-- ☕ &nbsp; I play Games too
+- ✍️&nbsp; Reading fiction and trying out latest design trends.
+- 🎮 &nbsp; I play Games too
 
 <h3>🛠 Tech Stack</h3>
 
