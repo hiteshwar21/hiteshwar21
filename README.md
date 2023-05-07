@@ -5,9 +5,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
-- 💻 &nbsp; RPi is the tech I am currently loving the most.
 - 💼 &nbsp; Backend developer by profession.
+- 🤔 &nbsp; New tech and quick hacks are my areas of expertise.
+- 💻 &nbsp; RPi is the tech I am currently loving the most.
 - 🌱 &nbsp; I like travelling at leisurely pace. 
 - 🎮 &nbsp; Exploring the Games(Finding easter eggs) >> Mission
 
