@@ -5,13 +5,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently working with SirionLabs and learning everyday.
 - 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
 - 💻 &nbsp; RPi is the tech I am currently loving the most.
-- 💼 &nbsp; Developer by profession.
+- 💼 &nbsp; Backend developer by profession.
 - 🌱 &nbsp; I like travelling at leisurely pace. 
-- ✍️&nbsp; Reading fiction and trying out latest design trends.
-- 🎮 &nbsp; I play Games too
+- 🎮 &nbsp; Exploring the Games(Finding easter eggs) >> Mission
 
 <h3>🛠 Tech Stack</h3>
 
