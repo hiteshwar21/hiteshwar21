@@ -8,13 +8,13 @@
 - 💼 &nbsp; Backend developer by profession.
 - 🤔 &nbsp; New tech and quick hacks are my areas of expertise.
 - 💻 &nbsp; RPi is the tech I am currently loving the most.
-- 🌱 &nbsp; I like travelling at leisurely pace. 
+- 🌱 &nbsp; I like traveling at a leisurely pace. 
 - 🎮 &nbsp; Exploring the Games(Finding easter eggs) >> Mission
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | Golang 
-- 🌐 &nbsp; DSA | System Design | Design Patterns | DBMS
+- 🌐 &nbsp; DSA | OOPS | System Design | Design Patterns | DBMS
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Redis
 - 🔧 &nbsp; SpringBoot | AWS S3 | Postman | Ibatis | Apache Pulsar
 - 🖥 &nbsp; Adobe Photoshop | Adobe Illustrator | Procreate
